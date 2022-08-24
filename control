@@ -1,8 +1,8 @@
 Package: net.sourceloc.statustimeformatter
 Name: StatusTimeFormatter
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: An awesome Orion tweak!
+Description: Change the time label to show current date
 Maintainer: sourcelocation
 Author: sourcelocation
 Section: Tweaks
