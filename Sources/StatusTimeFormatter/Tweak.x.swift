@@ -19,7 +19,7 @@ class StatusBarTimeHook: ClassHook<_UIStatusBarStringView> {
 
     func setTextColor(_ color: UIColor) {
         if isDateLabel(target.text ?? "") {
-            orig.setTextColor(.blue)
+            orig.setTextColor(.yellow)
         } else {
             orig.setTextColor(color)
         }
